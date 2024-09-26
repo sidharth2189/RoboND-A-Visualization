@@ -3,6 +3,11 @@
 # RoboND-A-Visualization
 You will visualize the shortest path for the robot to travel through the generated image
 
+### Dependencies
+
+* ([Udacity VM Image](https://s3-us-west-1.amazonaws.com/udacity-robotics/Virtual+Machines/Lubuntu_071917/RoboVM_V2.1.0.zip))
+  *  Please refer steps for usage of VM, resource allocation and first boot [here](https://github.com/sidharth2189/RoboND-MapMyWorld/blob/main/docs/VM.txt)).
+
 ### Instruction
 The visualization function will plot the state of each grid cell using the matplotlib python library. Edit this function and plot the start position, goal position and path.
 ``` C++
